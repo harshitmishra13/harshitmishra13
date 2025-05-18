@@ -2,6 +2,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><br>
+<img align="left" alt="MySQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><br>
 
 ### Connect with ME:
 
