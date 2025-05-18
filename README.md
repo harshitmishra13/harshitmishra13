@@ -20,7 +20,7 @@ I’m a passionate coder & hardware tinkerer bridging the gap between software a
 
 <br><br><br>
 
- _“Innovation happens when code meets circuitry.”_ 🔌✨
+ _“Innovation happens when code meets circuitry.”_ 🔌
 <!--
 **harshitmishra13/harshitmishra13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
