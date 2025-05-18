@@ -16,6 +16,7 @@ I’m a passionate coder & hardware tinkerer bridging the gap between software a
 <a href="https://www.hackerrank.com/profile/harshitmishra13"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/harshitmishra13" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/harshittmishraa"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harshittmishraa" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.twitter.com/theHarshitM"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.twitter.com/theHarshitM" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.youtube.com/@HarshittMishraa"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@HarshittMishraa" height="30" width="40" style="max-width: 100%;"></a>
 
 <br><br><br>
 
