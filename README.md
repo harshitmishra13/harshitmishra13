@@ -5,10 +5,10 @@
 I’m a passionate coder & hardware tinkerer bridging the gap between software and electronics. I thrive on solving real‑world problems with clean code, clever circuitry, and a dash of creativity.
 
 ### Learning Languages and Tools:
-<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<a href=" "><img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img align="left" alt="MySQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 <img align="left" alt="MySQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg">
-<img align="left" alt="MySQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"><br><br>
+<img align="left" alt="MySQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"></a><br><br>
 
 ### 📫 How to reach me: ...
 
